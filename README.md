@@ -1,5 +1,7 @@
 # Inglés B2 paso a paso
 
+**© 2026 circem81. Todos los derechos reservados.** Consulta [LICENSE](LICENSE): el código es visible, pero no se permite copiarlo ni reutilizarlo sin permiso.
+
 Práctica gratuita de inglés B2 en sesiones cortas, con el formato del examen Aptis. App no oficial.
 
 - App publicada: https://wondrous-granita-f7e43f.netlify.app/

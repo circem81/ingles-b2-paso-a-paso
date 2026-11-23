@@ -8,4 +8,5 @@ Práctica gratuita de inglés B2 en sesiones cortas, con el formato del examen A
 ## Archivos
 - `index.html` – la app completa
 - `sw.js` – service worker (copia sin conexión). Cambia `VERSION` al publicar una actualización.
+- `audio/` – 72 audios del Listening grabados con voces neuronales británicas (si falta alguno, la app usa la voz del navegador)
 - `manifest.webmanifest`, `icons/`, `fonts/` – instalación como app y recursos
